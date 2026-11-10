@@ -1,46 +1,84 @@
-Privacy Policy  
-----------------
+# Privacy Policy for OrganicChem Quiz
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at Organic Chemistry Quiz, how Organic Chemistry Quiz uses it, and what choices you have.
-Organic Chemistry Quiz built the Organic Chemistry Quiz app as a free app. This SERVICE is provided by Organic Chemistry Quiz at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+**Last updated:** 10 November 2026
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+This Privacy Policy applies to the **OrganicChem Quiz** mobile app (Android package name `com.marcos.organic_chemistry_quiz`), published on Google Play by the developer **OrganicChemLabs** and on the Apple App Store.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+**Who we are (data controller):** OrganicChemLabs is the developer name used by **Marcos San Segundo Eizaguirre**, an individual developer based in Copenhagen, Denmark. In this policy, "we", "us" and "our" refer to OrganicChemLabs / Marcos San Segundo Eizaguirre, and "the app" refers to OrganicChem Quiz.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+- Developer: OrganicChemLabs (Marcos San Segundo Eizaguirre)
+- Email: markossan33@gmail.com
+- Website: https://organicchemlabs.com
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+This policy explains what information the app collects, how it is used and shared, and the choices you have.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+## 1. Information we collect
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+**Account information.** When you sign in, we receive the information needed to create and maintain your account, such as your email address, display name and a unique user ID, through Firebase Authentication (Google).
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+**Learning progress.** We store your quiz activity, such as answers, scores, progress, streaks and settings, so the app can save your progress and personalize your practice.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+**Purchase information.** If you buy a subscription or one-time purchase, the payment is handled by Google Play or the Apple App Store. We do not receive your card details. We receive purchase status information (for example, which plan you have and whether it is active) so we can unlock premium features.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+**Usage and device information.** We collect information about how the app is used (for example, screens viewed, features used, crashes and performance) together with device information such as device model, operating system version, app version, language and approximate country. This helps us fix bugs and improve the app.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+We do **not** collect your precise location, contacts, photos, or microphone or camera data.
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
-Email: markossan33@gmail.com  
+## 2. How we use your information
+
+We use the information above to:
+
+- create and manage your account and save your progress;
+- provide quizzes, explanations and premium features;
+- process and verify purchases and subscriptions;
+- understand how the app is used, fix problems and improve content;
+- test different versions of screens and offers (for example, paywall layouts and prices);
+- respond to your support requests.
+
+We do not sell your personal information.
+
+## 3. Third-party services
+
+The app uses the following service providers, which process data on our behalf under their own privacy policies:
+
+| Service | Purpose | Privacy policy |
+|---|---|---|
+| Google Firebase (Authentication, Cloud Firestore, Storage) | Sign-in, storing questions and your progress | https://firebase.google.com/support/privacy |
+| Google Play Billing / Apple App Store | Processing payments | https://policies.google.com/privacy · https://www.apple.com/legal/privacy/ |
+| RevenueCat | Managing subscriptions and purchase status | https://www.revenuecat.com/privacy |
+| Superwall | Displaying and testing paywalls | https://superwall.com/privacy |
+| PostHog | App usage analytics | https://posthog.com/privacy |
+
+These providers may process data in countries outside your own, including the United States, using appropriate safeguards such as Standard Contractual Clauses.
+
+## 4. Legal basis (EU/EEA users)
+
+Under the GDPR, we process your data to perform our contract with you (providing the app and your purchases), based on our legitimate interests (keeping the app secure, analysing and improving it), and to comply with legal obligations (for example, tax records for purchases).
+
+## 5. Data retention
+
+We keep your account and progress data for as long as your account exists. When you delete your account, we delete or anonymise your personal data within 30 days, except where we must keep certain records (such as purchase records) for legal reasons.
+
+## 6. Your rights and account deletion
+
+You can ask to access, correct, export or delete your personal data, or object to certain processing. To delete your account and its data, or to make any other request, email **markossan33@gmail.com** from the address linked to your account. If you are in the EU/EEA, you also have the right to complain to your local data protection authority (in Denmark, Datatilsynet).
+
+## 7. Security
+
+We use reasonable technical measures to protect your information, such as encrypted connections and access controls provided by Firebase. No method of transmission or storage is 100% secure, so we cannot guarantee absolute security.
+
+## 8. Children's privacy
+
+OrganicChem Quiz is intended for students aged 13 and over and is not directed at children under 13. We do not knowingly collect personal information from children under 13. If you believe a child under 13 has given us personal information, contact us and we will delete it.
+
+## 9. Changes to this policy
+
+We may update this policy from time to time. We will post the new version on this page and update the "Last updated" date above.
+
+## 10. Contact
+
+If you have any questions about this Privacy Policy or OrganicChem Quiz, contact:
+
+**OrganicChemLabs (Marcos San Segundo Eizaguirre)**
+Email: markossan33@gmail.com
+Website: https://organicchemlabs.com
