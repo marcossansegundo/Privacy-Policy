@@ -1,6 +1,6 @@
 # Privacy Policy for OrganicChem Quiz
 
-**Last updated:** 10 November 2026
+**Last updated:** 18 November 2026
 
 This Privacy Policy applies to the **OrganicChem Quiz** mobile app (Android package name `com.marcos.organic_chemistry_quiz`), published on Google Play by the developer **OrganicChemLabs** and on the Apple App Store.
 
@@ -14,13 +14,15 @@ This policy explains what information the app collects, how it is used and share
 
 ## 1. Information we collect
 
-**Account information.** When you sign in, we receive the information needed to create and maintain your account, such as your email address, display name and a unique user ID, through Firebase Authentication (Google).
+**Account information.** When you sign in, we receive the information needed to create and maintain your account, such as your email address, display name and a unique user ID, through Firebase Authentication (Google). If you use Sign in with Apple, you can choose to hide your email address; we then receive a private relay address from Apple.
 
 **Learning progress.** We store your quiz activity, such as answers, scores, progress, streaks and settings, so the app can save your progress and personalize your practice.
 
 **Purchase information.** If you buy a subscription or one-time purchase, the payment is handled by Google Play or the Apple App Store. We do not receive your card details. We receive purchase status information (for example, which plan you have and whether it is active) so we can unlock premium features.
 
 **Usage and device information.** We collect information about how the app is used (for example, screens viewed, features used, crashes and performance) together with device information such as device model, operating system version, app version, language and approximate country. This helps us fix bugs and improve the app.
+
+**Advertising.** If you use the free version, the app shows ads from Google AdMob. To show and measure ads, AdMob may collect your device's advertising identifier, IP address, approximate location (country or region), and information about ad views and taps. On iOS, the app only requests non-personalised ads and does not track you across other companies' apps or websites. On Android, ads may be personalised based on your advertising identifier; you can reset it or opt out of personalised ads in your device's Google settings. Premium users do not see ads.
 
 We do **not** collect your precise location, contacts, photos, or microphone or camera data.
 
@@ -33,6 +35,7 @@ We use the information above to:
 - process and verify purchases and subscriptions;
 - understand how the app is used, fix problems and improve content;
 - test different versions of screens and offers (for example, paywall layouts and prices);
+- show ads to users of the free version;
 - respond to your support requests.
 
 We do not sell your personal information.
@@ -48,12 +51,13 @@ The app uses the following service providers, which process data on our behalf u
 | RevenueCat | Managing subscriptions and purchase status | https://www.revenuecat.com/privacy |
 | Superwall | Displaying and testing paywalls | https://superwall.com/privacy |
 | PostHog | App usage analytics | https://posthog.com/privacy |
+| Google AdMob | Showing and measuring ads in the free version | https://policies.google.com/technologies/ads |
 
 These providers may process data in countries outside your own, including the United States, using appropriate safeguards such as Standard Contractual Clauses.
 
 ## 4. Legal basis (EU/EEA users)
 
-Under the GDPR, we process your data to perform our contract with you (providing the app and your purchases), based on our legitimate interests (keeping the app secure, analysing and improving it), and to comply with legal obligations (for example, tax records for purchases).
+Under the GDPR, we process your data to perform our contract with you (providing the app and your purchases), based on our legitimate interests (keeping the app secure, analysing and improving it, and showing non-personalised ads), on your consent where the law requires it (for example, for personalised ads), and to comply with legal obligations (for example, tax records for purchases).
 
 ## 5. Data retention
 
@@ -82,3 +86,4 @@ If you have any questions about this Privacy Policy or OrganicChem Quiz, contact
 **OrganicChemLabs (Marcos San Segundo Eizaguirre)**
 Email: markossan33@gmail.com
 Website: https://organicchemlabs.com
+
