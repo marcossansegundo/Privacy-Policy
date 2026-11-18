@@ -65,7 +65,7 @@ We keep your account and progress data for as long as your account exists. When 
 
 ## 6. Your rights and account deletion
 
-You can ask to access, correct, export or delete your personal data, or object to certain processing. To delete your account and its data, or to make any other request, email **markossan33@gmail.com** from the address linked to your account. If you are in the EU/EEA, you also have the right to complain to your local data protection authority (in Denmark, Datatilsynet).
+You can ask to access, correct, export or delete your personal data, or object to certain processing. To delete your account and its data, open the app and go to **Profile → Delete account**. For any other request, or if you can no longer open the app, email **markossan33@gmail.com** from the address linked to your account. If you are in the EU/EEA, you also have the right to complain to your local data protection authority (in Denmark, Datatilsynet).
 
 ## 7. Security
 
